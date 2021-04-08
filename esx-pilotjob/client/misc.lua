@@ -1,5 +1,5 @@
---Job Script edited by 'bypass#4423'
---Community Development https://discord.gg/gc3KHcX8Wk
+-- Job Script edited by 'bypass#0700'
+-- client.lua
 function cleanPlayer(playerPed)
 	SetPedArmour(playerPed, 0)
 	ClearPedBloodDamage(playerPed)
